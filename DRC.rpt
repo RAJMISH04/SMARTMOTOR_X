@@ -1,0 +1,150 @@
+** Drc report for SMARTMOTOR_X.kicad_pcb **
+** Created on 2026-09-07T12:34:05 **
+** Report includes: Errors **
+
+** Found 12 DRC violations **
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3750 mm)
+    Rule: board setup constraints edge; error
+    @(84.5000 mm, 42.5000 mm): Rectangle on Edge.Cuts
+    @(86.5000 mm, 43.0000 mm): Track [SD_CS] on F.Cu, length 57.5000 mm
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3750 mm)
+    Rule: board setup constraints edge; error
+    @(84.5000 mm, 42.5000 mm): Rectangle on Edge.Cuts
+    @(144.0000 mm, 43.0000 mm): Track [SD_CS] on F.Cu, length 0.1268 mm
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.4250 mm)
+    Rule: board setup constraints edge; error
+    @(84.5000 mm, 42.5000 mm): Rectangle on Edge.Cuts
+    @(85.0500 mm, 44.4500 mm): Track [SD_CS] on F.Cu, length 2.0506 mm
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.4250 mm)
+    Rule: board setup constraints edge; error
+    @(84.5000 mm, 42.5000 mm): Rectangle on Edge.Cuts
+    @(85.0500 mm, 58.6272 mm): Track [SD_CS] on F.Cu, length 14.1772 mm
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.4250 mm)
+    Rule: board setup constraints edge; error
+    @(84.5000 mm, 42.5000 mm): Rectangle on Edge.Cuts
+    @(85.2250 mm, 58.8022 mm): Track [SD_CS] on F.Cu, length 0.2475 mm
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.4750 mm)
+    Rule: board setup constraints edge; error
+    @(84.5000 mm, 42.5000 mm): Rectangle on Edge.Cuts
+    @(85.0750 mm, 80.8076 mm): Track [Net-(J1-Pin_1)] on F.Cu, length 1.8492 mm
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.4750 mm)
+    Rule: board setup constraints edge; error
+    @(84.5000 mm, 42.5000 mm): Rectangle on Edge.Cuts
+    @(87.4100 mm, 87.5000 mm): Track [Net-(J1-Pin_1)] on F.Cu, length 3.3022 mm
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.4750 mm)
+    Rule: board setup constraints edge; error
+    @(84.5000 mm, 42.5000 mm): Rectangle on Edge.Cuts
+    @(85.0750 mm, 85.1650 mm): Track [Net-(J1-Pin_1)] on F.Cu, length 4.3574 mm
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.4250 mm)
+    Rule: board setup constraints edge; error
+    @(84.5000 mm, 42.5000 mm): Rectangle on Edge.Cuts
+    @(85.2250 mm, 58.8022 mm): Via [SD_CS] on F.Cu - B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.4250 mm)
+    Rule: board setup constraints edge; error
+    @(84.5000 mm, 42.5000 mm): Rectangle on Edge.Cuts
+    @(90.2700 mm, 102.0000 mm): Track [SD_CS] on B.Cu, length 5.2200 mm
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.4250 mm)
+    Rule: board setup constraints edge; error
+    @(84.5000 mm, 42.5000 mm): Rectangle on Edge.Cuts
+    @(85.2250 mm, 58.8022 mm): Track [SD_CS] on B.Cu, length 0.2475 mm
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.4250 mm)
+    Rule: board setup constraints edge; error
+    @(84.5000 mm, 42.5000 mm): Rectangle on Edge.Cuts
+    @(85.0500 mm, 58.9772 mm): Track [SD_CS] on B.Cu, length 43.0228 mm
+
+** Found 21 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+    @(184.5000 mm, 123.0000 mm): Zone 'ground_3' [gnd] on B.Cu, priority 0
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+    @(184.5000 mm, 123.0000 mm): Zone 'ground_3' [gnd] on B.Cu, priority 0
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(143.0000 mm, 57.4000 mm): Via [gnd] on F.Cu - B.Cu
+    @(184.5000 mm, 123.0000 mm): Zone 'ground_3' [gnd] on B.Cu, priority 0
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(184.5000 mm, 123.0000 mm): Zone 'ground_3' [gnd] on B.Cu, priority 0
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+    @(184.5000 mm, 123.0000 mm): Zone 'ground_3' [gnd] on B.Cu, priority 0
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+    @(184.5000 mm, 123.0000 mm): Zone 'ground_3' [gnd] on B.Cu, priority 0
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+    @(184.5000 mm, 123.0000 mm): Zone 'ground_3' [gnd] on B.Cu, priority 0
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+    @(184.5000 mm, 123.0000 mm): Zone 'ground_3' [gnd] on B.Cu, priority 0
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **

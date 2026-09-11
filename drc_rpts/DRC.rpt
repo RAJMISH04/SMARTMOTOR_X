@@ -1,0 +1,102 @@
+** Drc report for SMARTMOTOR_X.kicad_pcb **
+** Created on 2026-09-08T14:56:18 **
+** Report includes: Errors **
+
+** Found 0 DRC violations **
+
+** Found 21 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+    @(184.5000 mm, 123.0000 mm): Zone 'ground_3' [gnd] on B.Cu, priority 0
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+    @(184.5000 mm, 123.0000 mm): Zone 'ground_3' [gnd] on B.Cu, priority 0
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(143.0000 mm, 57.4000 mm): Via [gnd] on F.Cu - B.Cu
+    @(184.5000 mm, 123.0000 mm): Zone 'ground_3' [gnd] on B.Cu, priority 0
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(184.5000 mm, 123.0000 mm): Zone 'ground_3' [gnd] on B.Cu, priority 0
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+    @(184.5000 mm, 123.0000 mm): Zone 'ground_3' [gnd] on B.Cu, priority 0
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+    @(184.5000 mm, 123.0000 mm): Zone 'ground_3' [gnd] on B.Cu, priority 0
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+    @(184.5000 mm, 123.0000 mm): Zone 'ground_3' [gnd] on B.Cu, priority 0
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84.5000 mm, 43.0000 mm): Zone 'ground_3' [gnd] on F.Cu, priority 1
+    @(184.5000 mm, 123.0000 mm): Zone 'ground_3' [gnd] on B.Cu, priority 0
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **

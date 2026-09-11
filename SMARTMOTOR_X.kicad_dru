@@ -1,0 +1,9 @@
+(version 1)
+(rule "LIS3DH_pad_clearance"
+    (constraint clearance (min 0.15mm))
+    (condition "A.Reference == 'U5' || B.Reference == 'U5'")
+)
+(rule "USB_C_Hole_Clearance"
+    (constraint hole_clearance (min 0.19mm))
+    (condition "A.Reference == 'J2' || B.Reference == 'J2'")
+)
